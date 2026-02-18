@@ -1,9 +1,6 @@
 # Analisis Eksplorasi Data (AED) - Studi Kasus Susenas 2023
 **Wilayah Analisis:** Kota Bandung (Kode Wilayah: 73)
 
-## Deskripsi Proyek
-Proyek ini bertujuan untuk menganalisis karakteristik pengeluaran rumah tangga di Kota Bandung menggunakan data Susenas Maret 2023. Analisis difokuskan pada aspek statistik deskriptif untuk memahami distribusi kesejahteraan, pola konsumsi pangan, serta kesenjangan ekonomi berdasarkan kepemilikan aset (mobil).
-
 ## Metodologi
 Analisis dilakukan dengan menggunakan bahasa pemrograman Python (Pandas & Numpy) dengan tahapan:
 1. **Data Preprocessing:** Penggabungan (*merging*) data Blok 4.3 (Pengeluaran) dengan KOR Rumah Tangga (Karakteristik Fasilitas).

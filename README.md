@@ -1,5 +1,5 @@
 # Analisis Eksplorasi Data (AED) - Studi Kasus Susenas 2023
-**Kelompok 5 AED** **Wilayah Analisis:** Kota Bandung (Kode Wilayah: 73)
+**Wilayah Analisis:** Kota Bandung (Kode Wilayah: 73)
 
 ## Deskripsi Proyek
 Proyek ini bertujuan untuk menganalisis karakteristik pengeluaran rumah tangga di Kota Bandung menggunakan data Susenas Maret 2023. Analisis difokuskan pada aspek statistik deskriptif untuk memahami distribusi kesejahteraan, pola konsumsi pangan, serta kesenjangan ekonomi berdasarkan kepemilikan aset (mobil).
@@ -48,6 +48,3 @@ Segmentasi rumah tangga berdasarkan kepemilikan aset kendaraan roda empat sebaga
 1. **Kesenjangan Ekonomi:** Terdapat jurang ekonomi yang signifikan, di mana rumah tangga pemilik mobil memiliki daya beli hampir **3 kali lipat** lebih tinggi dibandingkan non-pemilik mobil.
 2. **Kesejahteraan Wilayah:** Berdasarkan Hukum Engel, wilayah ini dikategorikan sejahtera karena rata-rata pengeluaran pangan sudah berada di bawah 50% dari total anggaran bulanan.
 3. **Distribusi Kekayaan:** Nilai Skewness dan Kurtosis yang ekstrem pada pengeluaran total menunjukkan bahwa distribusi kekayaan sangat terpusat pada kelompok elit kecil (pencilan).
-
----
-*Dibuat untuk memenuhi Tugas 1 Mata Kuliah Analisis Eksplorasi Data.*
